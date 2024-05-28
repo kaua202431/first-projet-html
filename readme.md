@@ -13,11 +13,12 @@
 #### Github.
 * Criar um repositório
 * Copiar os comandos gerados
-* Github config.
 
 * git init
+
 * git add .
-* Abrir o terminal e colar os comandos
+* git commit -m "crie uma página nova"
+* git push
 
 #### Comandos CMD
 * cd ..
